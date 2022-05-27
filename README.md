@@ -1,1 +1,1 @@
-# smartr
+library management system
